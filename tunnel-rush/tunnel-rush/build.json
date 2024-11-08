@@ -1,8 +1,8 @@
 {
 "productName": "Tunnel Rush",
-"dataUrl": "tunnel_rush_v9data.unityweb",
-"wasmCodeUrl": "tunnel_rush_v9wasmcode.unityweb",
-"wasmFrameworkUrl": "tunnel_rush_v9wasmframework.unityweb",
+"dataUrl": "https://cdn.jsdelivr.net/gh/FoundationINCCorporateTeam/MNLimited@main/tunnel-rush/tunnel-rush/tunnel_rush_v9data.unityweb",
+"wasmCodeUrl": "thttps://cdn.jsdelivr.net/gh/FoundationINCCorporateTeam/MNLimited@main/tunnel-rush/tunnel-rush/tunnel_rush_v9wasmcode.unityweb",
+"wasmFrameworkUrl": "https://cdn.jsdelivr.net/gh/FoundationINCCorporateTeam/MNLimited@main/tunnel-rush/tunnel-rush/tunnel_rush_v9wasmframework.unityweb",
 "asmCodeUrl": "tunnel_rush_v9code.unityweb",
 "asmMemoryUrl": "tunnel_rush_v9memory.unityweb",
 "asmFrameworkUrl": "tunnel_rush_v9framework.unityweb",

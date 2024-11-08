@@ -1,8 +1,8 @@
 {
     "companyName": "Slope",
     "productName": "Slope",
-    "dataUrl": "slope_27Sept.data.unityweb",
-    "wasmCodeUrl": "slope_27Sept.wasm.code.unityweb",
+    "dataUrl": "https://cdn.jsdelivr.net/gh/FoundationINCCorporateTeam/MNLimited@main/FoundationINCCorporateTeam%203kh0-assets%20fixy%20slope/Build/slope_27Sept.data.unityweb",
+    "wasmCodeUrl": "https://cdn.jsdelivr.net/gh/FoundationINCCorporateTeam/MNLimited@main/FoundationINCCorporateTeam%203kh0-assets%20fixy%20slope/Build/slope_27Sept.wasm.code.unityweb",
     "wasmFrameworkUrl": "slope_27Sept.wasm.framework.unityweb",
     "asmCodeUrl": "slope_27Sept.asm.code.unityweb",
     "asmMemoryUrl": "slope_27Sept.asm.memory.unityweb",
